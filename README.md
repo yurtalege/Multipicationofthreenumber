@@ -1,2 +1,2 @@
-# Ucsayinincarpimi
-Keil micro vision programında assembly dilinde 3 sayının çarpım işlemi yapılmıştır.
+# Multiplicationofthreenumbers
+In the Keil micro vision program, multiplication of 3 numbers was performed in assembly language.
